@@ -13,7 +13,7 @@
   "author": "xiaowei.yang",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^0.9.0"
+    "puppeteer": "^5.2.1"
   },
   "bugs": {
     "url": "https://github.com/ShuHai/chromeless/issues"
